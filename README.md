@@ -2,7 +2,7 @@
 - 👀 I’m interested in sharing my Python projects and build a portfolio for future opportunities.
 - 🌱 I’m currently learning Python as part of a Software Engineering Bootcamp.
 - 💞️ I’m looking to collaborate on any work related to Python. 
-- 📫 How to reach me: mariliagomiero@gmail.com
+- 📫 How to reach me: mariliagomiero@outlook.com
 - 😄 Pronouns: She/Her
 
 <!---
